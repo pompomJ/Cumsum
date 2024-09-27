@@ -1,0 +1,2 @@
+Pythonで累積和を求める練習用コードです。
+Visual Studio Codeで書いたものをインポートしました。
